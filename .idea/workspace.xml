@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc0ff3fe-d371-4ce6-baac-156d7512b3bb" name="Changes" comment="demo">
-      <change afterPath="$PROJECT_DIR$/day2/listDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/元组.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/forDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/ifDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/inputDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matchCaseDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/matchCaseDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/strDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whileDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/whileDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/元组.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +63,13 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/chenweili/Documents/pycharmWorkspace/pythonProject1",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "FeaturesTrainerSettingsPanel",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -275,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777295078551</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="demo">
+      <option name="closed" value="true" />
+      <created>1777308465830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777308465830</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
