@@ -34,3 +34,11 @@ addDemo= lambda x,y : x+y
 print(addDemo(3,4))
 
 
+print("======================")
+
+
+data_list=['C','C++','JAVA','C#']
+data_list.sort(key=lambda item: len(item),reverse=True)
+print(data_list)
+
+
