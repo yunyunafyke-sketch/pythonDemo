@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc0ff3fe-d371-4ce6-baac-156d7512b3bb" name="Changes" comment="day2">
-      <change afterPath="$PROJECT_DIR$/day3/函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/函数进阶.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dc0ff3fe-d371-4ce6-baac-156d7512b3bb" name="Changes" comment="day3">
+      <change beforePath="$PROJECT_DIR$/day3/函数进阶.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/函数进阶.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +352,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777966043756</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day3">
+      <option name="closed" value="true" />
+      <created>1778060042056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1778060042056</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +380,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo" />
     <MESSAGE value="day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day2" />
+    <MESSAGE value="day3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
